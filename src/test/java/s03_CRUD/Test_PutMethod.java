@@ -1,4 +1,4 @@
-package s03;
+package s03_CRUD;
 
 import static io.restassured.RestAssured.baseURI;
 import static io.restassured.RestAssured.given;

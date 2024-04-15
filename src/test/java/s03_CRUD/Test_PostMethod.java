@@ -1,4 +1,4 @@
-package s03;
+package s03_CRUD;
 
 import org.json.simple.JSONObject;
 import org.testng.annotations.Test;
