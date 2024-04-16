@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="s04_ValidateHTTPResponseStatus.CheckForValidResponse">
+      <class name="s05_ValidateHTTPResponseHeader.ValidateResponseHeader">
         <methods>
-          <include name="getSingleUserUsingValidatableResponse"/>
+          <include name="getSingleUser"/>
         </methods>
-      </class> <!-- s04_ValidateHTTPResponseStatus.CheckForValidResponse -->
+      </class> <!-- s05_ValidateHTTPResponseHeader.ValidateResponseHeader -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
