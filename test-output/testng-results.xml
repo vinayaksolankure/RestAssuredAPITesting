@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-04-16T10:12:16 IST" name="Default suite" finished-at="2024-04-16T10:12:21 IST" duration-ms="4272">
+  <suite started-at="2024-04-17T21:07:37 IST" name="Default suite" finished-at="2024-04-17T21:07:42 IST" duration-ms="4827">
     <groups>
     </groups>
-    <test started-at="2024-04-16T10:12:16 IST" name="Default test" finished-at="2024-04-16T10:12:21 IST" duration-ms="4272">
-      <class name="s05_ValidateHTTPResponseHeader.ValidateResponseHeader">
-        <test-method signature="getSingleUser()[pri:0, instance:s05_ValidateHTTPResponseHeader.ValidateResponseHeader@32eff876]" started-at="2024-04-16T10:12:16 IST" name="getSingleUser" finished-at="2024-04-16T10:12:21 IST" duration-ms="4176" status="PASS">
+    <test started-at="2024-04-17T21:07:37 IST" name="Default test" finished-at="2024-04-17T21:07:42 IST" duration-ms="4827">
+      <class name="s06_ValidateJSONResponseBody.ValidateJSONResponseBody">
+        <test-method signature="userListResponseBody()[pri:0, instance:s06_ValidateJSONResponseBody.ValidateJSONResponseBody@32eff876]" started-at="2024-04-17T21:07:37 IST" name="userListResponseBody" finished-at="2024-04-17T21:07:42 IST" duration-ms="4751" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getSingleUser -->
-      </class> <!-- s05_ValidateHTTPResponseHeader.ValidateResponseHeader -->
+        </test-method> <!-- userListResponseBody -->
+      </class> <!-- s06_ValidateJSONResponseBody.ValidateJSONResponseBody -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
