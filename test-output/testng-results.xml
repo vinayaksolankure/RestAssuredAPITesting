@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-04-20T10:51:50 IST" name="Default suite" finished-at="2024-04-20T10:51:55 IST" duration-ms="5723">
+  <suite started-at="2024-04-22T10:32:48 IST" name="Default suite" finished-at="2024-04-22T10:32:52 IST" duration-ms="3964">
     <groups>
     </groups>
-    <test started-at="2024-04-20T10:51:50 IST" name="Default test" finished-at="2024-04-20T10:51:55 IST" duration-ms="5723">
-      <class name="s09_Authorization_BearerTokenAuthentication.BearerTokenAuthentication">
-        <test-method signature="bearerToken()[pri:0, instance:s09_Authorization_BearerTokenAuthentication.BearerTokenAuthentication@32eff876]" started-at="2024-04-20T10:51:50 IST" name="bearerToken" finished-at="2024-04-20T10:51:55 IST" duration-ms="5573" status="PASS">
+    <test started-at="2024-04-22T10:32:48 IST" name="Default test" finished-at="2024-04-22T10:32:52 IST" duration-ms="3964">
+      <class name="s10_Authorization_APIKey.Authorization_APIKey">
+        <test-method signature="getWeatherDataByCity()[pri:0, instance:s10_Authorization_APIKey.Authorization_APIKey@32eff876]" started-at="2024-04-22T10:32:48 IST" name="getWeatherDataByCity" finished-at="2024-04-22T10:32:52 IST" duration-ms="3876" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- bearerToken -->
-      </class> <!-- s09_Authorization_BearerTokenAuthentication.BearerTokenAuthentication -->
+        </test-method> <!-- getWeatherDataByCity -->
+      </class> <!-- s10_Authorization_APIKey.Authorization_APIKey -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
