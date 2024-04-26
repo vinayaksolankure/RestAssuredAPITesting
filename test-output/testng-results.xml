@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-04-24T11:33:11 IST" name="Default suite" finished-at="2024-04-24T11:33:17 IST" duration-ms="5610">
+  <suite started-at="2024-04-26T10:49:56 IST" name="Default suite" finished-at="2024-04-26T10:50:00 IST" duration-ms="4021">
     <groups>
     </groups>
-    <test started-at="2024-04-24T11:33:11 IST" name="Default test" finished-at="2024-04-24T11:33:17 IST" duration-ms="5610">
-      <class name="s11_Authorization_OAuth2_0.Authorization_OAuth2_0">
-        <test-method signature="getAccessToken()[pri:0, instance:s11_Authorization_OAuth2_0.Authorization_OAuth2_0@71809907]" started-at="2024-04-24T11:33:11 IST" name="getAccessToken" finished-at="2024-04-24T11:33:17 IST" duration-ms="5038" status="PASS">
+    <test started-at="2024-04-26T10:49:56 IST" name="Default test" finished-at="2024-04-26T10:50:00 IST" duration-ms="4021">
+      <class name="s12_DeserializeJSONResponse.DeserializeJSONResponse">
+        <test-method signature="createUser()[pri:0, instance:s12_DeserializeJSONResponse.DeserializeJSONResponse@47af7f3d]" started-at="2024-04-26T10:49:56 IST" name="createUser" finished-at="2024-04-26T10:50:00 IST" duration-ms="3951" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getAccessToken -->
-        <test-method signature="listInvoice()[pri:0, instance:s11_Authorization_OAuth2_0.Authorization_OAuth2_0@71809907]" started-at="2024-04-24T11:33:17 IST" name="listInvoice" finished-at="2024-04-24T11:33:17 IST" depends-on-methods="s11_Authorization_OAuth2_0.Authorization_OAuth2_0.getAccessToken" duration-ms="473" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- listInvoice -->
-      </class> <!-- s11_Authorization_OAuth2_0.Authorization_OAuth2_0 -->
+        </test-method> <!-- createUser -->
+      </class> <!-- s12_DeserializeJSONResponse.DeserializeJSONResponse -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="s10_Authorization_APIKey.Authorization_APIKey">
+      <class name="s12_DeserializeJSONResponse.DeserializeJSONResponse">
         <methods>
-          <include name="getWeatherDataByCity"/>
+          <include name="createUser"/>
         </methods>
-      </class> <!-- s10_Authorization_APIKey.Authorization_APIKey -->
+      </class> <!-- s12_DeserializeJSONResponse.DeserializeJSONResponse -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
