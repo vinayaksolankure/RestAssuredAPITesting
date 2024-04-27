@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-04-26T10:49:56 IST" name="Default suite" finished-at="2024-04-26T10:50:00 IST" duration-ms="4021">
+  <suite started-at="2024-04-27T10:51:08 IST" name="Default suite" finished-at="2024-04-27T10:51:10 IST" duration-ms="1864">
     <groups>
     </groups>
-    <test started-at="2024-04-26T10:49:56 IST" name="Default test" finished-at="2024-04-26T10:50:00 IST" duration-ms="4021">
-      <class name="s12_DeserializeJSONResponse.DeserializeJSONResponse">
-        <test-method signature="createUser()[pri:0, instance:s12_DeserializeJSONResponse.DeserializeJSONResponse@47af7f3d]" started-at="2024-04-26T10:49:56 IST" name="createUser" finished-at="2024-04-26T10:50:00 IST" duration-ms="3951" status="PASS">
+    <test started-at="2024-04-27T10:51:08 IST" name="Default test" finished-at="2024-04-27T10:51:10 IST" duration-ms="1864">
+      <class name="s13_Retrieve_Query_RequestSpecification.Retrieve_Query_RequestSpecification">
+        <test-method signature="createUser()[pri:0, instance:s13_Retrieve_Query_RequestSpecification.Retrieve_Query_RequestSpecification@47af7f3d]" started-at="2024-04-27T10:51:08 IST" name="createUser" finished-at="2024-04-27T10:51:10 IST" duration-ms="1750" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createUser -->
-      </class> <!-- s12_DeserializeJSONResponse.DeserializeJSONResponse -->
+      </class> <!-- s13_Retrieve_Query_RequestSpecification.Retrieve_Query_RequestSpecification -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
