@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="s12_DeserializeJSONResponse.DeserializeJSONResponse">
+      <class name="s14_SendXMLDataAsPayload_ValidateXMLResponse.SendXMLDataAsPayload_ValidateXMLResponse">
         <methods>
-          <include name="createUser"/>
+          <include name="addPet"/>
         </methods>
-      </class> <!-- s12_DeserializeJSONResponse.DeserializeJSONResponse -->
+      </class> <!-- s14_SendXMLDataAsPayload_ValidateXMLResponse.SendXMLDataAsPayload_ValidateXMLResponse -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-04-27T10:51:08 IST" name="Default suite" finished-at="2024-04-27T10:51:10 IST" duration-ms="1864">
+  <suite started-at="2024-04-28T17:06:11 IST" name="Default suite" finished-at="2024-04-28T17:06:18 IST" duration-ms="6877">
     <groups>
     </groups>
-    <test started-at="2024-04-27T10:51:08 IST" name="Default test" finished-at="2024-04-27T10:51:10 IST" duration-ms="1864">
-      <class name="s13_Retrieve_Query_RequestSpecification.Retrieve_Query_RequestSpecification">
-        <test-method signature="createUser()[pri:0, instance:s13_Retrieve_Query_RequestSpecification.Retrieve_Query_RequestSpecification@47af7f3d]" started-at="2024-04-27T10:51:08 IST" name="createUser" finished-at="2024-04-27T10:51:10 IST" duration-ms="1750" status="PASS">
+    <test started-at="2024-04-28T17:06:11 IST" name="Default test" finished-at="2024-04-28T17:06:18 IST" duration-ms="6877">
+      <class name="s14_SendXMLDataAsPayload_ValidateXMLResponse.SendXMLDataAsPayload_ValidateXMLResponse">
+        <test-method signature="addPet()[pri:0, instance:s14_SendXMLDataAsPayload_ValidateXMLResponse.SendXMLDataAsPayload_ValidateXMLResponse@47af7f3d]" started-at="2024-04-28T17:06:11 IST" name="addPet" finished-at="2024-04-28T17:06:18 IST" duration-ms="6750" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createUser -->
-      </class> <!-- s13_Retrieve_Query_RequestSpecification.Retrieve_Query_RequestSpecification -->
+        </test-method> <!-- addPet -->
+      </class> <!-- s14_SendXMLDataAsPayload_ValidateXMLResponse.SendXMLDataAsPayload_ValidateXMLResponse -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
