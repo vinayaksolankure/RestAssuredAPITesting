@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-04-29T11:11:27 IST" name="Default suite" finished-at="2024-04-29T11:11:35 IST" duration-ms="7712">
+  <suite started-at="2024-04-30T11:52:25 IST" name="Default suite" finished-at="2024-04-30T11:52:35 IST" duration-ms="9698">
     <groups>
     </groups>
-    <test started-at="2024-04-29T11:11:27 IST" name="Default test" finished-at="2024-04-29T11:11:35 IST" duration-ms="7712">
-      <class name="s15_createJSONObject_usingJavaMap.CreateJSONObject_UsingJavaMap">
-        <test-method signature="createAuthToken()[pri:0, instance:s15_createJSONObject_usingJavaMap.CreateJSONObject_UsingJavaMap@7c729a55]" started-at="2024-04-29T11:11:27 IST" name="createAuthToken" finished-at="2024-04-29T11:11:34 IST" duration-ms="6952" status="PASS">
+    <test started-at="2024-04-30T11:52:25 IST" name="Default test" finished-at="2024-04-30T11:52:35 IST" duration-ms="9698">
+      <class name="s16_createJSONArray_usingJSONObject.createJSONArray_usingJSONObject">
+        <test-method signature="createUserUsingJSONArray()[pri:0, instance:s16_createJSONArray_usingJSONObject.createJSONArray_usingJSONObject@7c729a55]" started-at="2024-04-30T11:52:25 IST" name="createUserUsingJSONArray" finished-at="2024-04-30T11:52:34 IST" duration-ms="9022" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createAuthToken -->
-        <test-method signature="createUser()[pri:0, instance:s15_createJSONObject_usingJavaMap.CreateJSONObject_UsingJavaMap@7c729a55]" started-at="2024-04-29T11:11:34 IST" name="createUser" finished-at="2024-04-29T11:11:35 IST" duration-ms="665" status="PASS">
+        </test-method> <!-- createUserUsingJSONArray -->
+        <test-method signature="createJSONArrayUsingList()[pri:1, instance:s16_createJSONArray_usingJSONObject.createJSONArray_usingJSONObject@7c729a55]" started-at="2024-04-30T11:52:34 IST" name="createJSONArrayUsingList" finished-at="2024-04-30T11:52:35 IST" duration-ms="560" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createUser -->
-      </class> <!-- s15_createJSONObject_usingJavaMap.CreateJSONObject_UsingJavaMap -->
+        </test-method> <!-- createJSONArrayUsingList -->
+      </class> <!-- s16_createJSONArray_usingJSONObject.createJSONArray_usingJSONObject -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
