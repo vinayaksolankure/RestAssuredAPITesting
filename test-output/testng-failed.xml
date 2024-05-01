@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="s14_SendXMLDataAsPayload_ValidateXMLResponse.SendXMLDataAsPayload_ValidateXMLResponse">
+      <class name="s17_JSONObject_usingJacksonAPI.JSONObject_usingJacksonAPI">
         <methods>
-          <include name="addPet"/>
+          <include name="createUser"/>
         </methods>
-      </class> <!-- s14_SendXMLDataAsPayload_ValidateXMLResponse.SendXMLDataAsPayload_ValidateXMLResponse -->
+      </class> <!-- s17_JSONObject_usingJacksonAPI.JSONObject_usingJacksonAPI -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
