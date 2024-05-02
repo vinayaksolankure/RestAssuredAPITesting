@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-01T21:23:17 IST" name="Default suite" finished-at="2024-05-01T21:23:25 IST" duration-ms="7902">
+  <suite started-at="2024-05-02T12:35:34 IST" name="Default suite" finished-at="2024-05-02T12:35:39 IST" duration-ms="5704">
     <groups>
     </groups>
-    <test started-at="2024-05-01T21:23:17 IST" name="Default test" finished-at="2024-05-01T21:23:25 IST" duration-ms="7902">
-      <class name="s17_JSONObject_usingJacksonAPI.JSONObject_usingJacksonAPI">
-        <test-method signature="createUser()[pri:0, instance:s17_JSONObject_usingJacksonAPI.JSONObject_usingJacksonAPI@4a94ee4]" started-at="2024-05-01T21:23:17 IST" name="createUser" finished-at="2024-05-01T21:23:25 IST" duration-ms="7795" status="PASS">
+    <test started-at="2024-05-02T12:35:34 IST" name="Default test" finished-at="2024-05-02T12:35:39 IST" duration-ms="5704">
+      <class name="s18_UploadFile.UploadFile">
+        <test-method signature="uploadFile()[pri:0, instance:s18_UploadFile.UploadFile@7c729a55]" started-at="2024-05-02T12:35:34 IST" name="uploadFile" finished-at="2024-05-02T12:35:38 IST" duration-ms="4421" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createUser -->
-      </class> <!-- s17_JSONObject_usingJacksonAPI.JSONObject_usingJacksonAPI -->
+        </test-method> <!-- uploadFile -->
+        <test-method signature="uploadFile2()[pri:1, instance:s18_UploadFile.UploadFile@7c729a55]" started-at="2024-05-02T12:35:38 IST" name="uploadFile2" finished-at="2024-05-02T12:35:39 IST" duration-ms="1202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uploadFile2 -->
+      </class> <!-- s18_UploadFile.UploadFile -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
