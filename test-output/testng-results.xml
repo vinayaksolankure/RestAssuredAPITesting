@@ -2,20 +2,24 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-02T12:35:34 IST" name="Default suite" finished-at="2024-05-02T12:35:39 IST" duration-ms="5704">
+  <suite started-at="2024-05-05T10:51:00 IST" name="Default suite" finished-at="2024-05-05T10:51:04 IST" duration-ms="3935">
     <groups>
     </groups>
-    <test started-at="2024-05-02T12:35:34 IST" name="Default test" finished-at="2024-05-02T12:35:39 IST" duration-ms="5704">
-      <class name="s18_UploadFile.UploadFile">
-        <test-method signature="uploadFile()[pri:0, instance:s18_UploadFile.UploadFile@7c729a55]" started-at="2024-05-02T12:35:34 IST" name="uploadFile" finished-at="2024-05-02T12:35:38 IST" duration-ms="4421" status="PASS">
+    <test started-at="2024-05-05T10:51:00 IST" name="Default test" finished-at="2024-05-05T10:51:04 IST" duration-ms="3935">
+      <class name="s19_CreateOwnAPI_CRUDOperations.CreateOwnAPI_CRUDOperations">
+        <test-method is-config="true" signature="setupDefault()[pri:0, instance:s19_CreateOwnAPI_CRUDOperations.CreateOwnAPI_CRUDOperations@6adbc9d]" started-at="2024-05-05T10:51:00 IST" name="setupDefault" finished-at="2024-05-05T10:51:01 IST" duration-ms="1099" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- uploadFile -->
-        <test-method signature="uploadFile2()[pri:1, instance:s18_UploadFile.UploadFile@7c729a55]" started-at="2024-05-02T12:35:38 IST" name="uploadFile2" finished-at="2024-05-02T12:35:39 IST" duration-ms="1202" status="PASS">
+        </test-method> <!-- setupDefault -->
+        <test-method signature="readUserData()[pri:0, instance:s19_CreateOwnAPI_CRUDOperations.CreateOwnAPI_CRUDOperations@6adbc9d]" started-at="2024-05-05T10:51:01 IST" name="readUserData" finished-at="2024-05-05T10:51:04 IST" duration-ms="2662" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- uploadFile2 -->
-      </class> <!-- s18_UploadFile.UploadFile -->
+        </test-method> <!-- readUserData -->
+        <test-method signature="deleteUserData()[pri:3, instance:s19_CreateOwnAPI_CRUDOperations.CreateOwnAPI_CRUDOperations@6adbc9d]" started-at="2024-05-05T10:51:04 IST" name="deleteUserData" finished-at="2024-05-05T10:51:04 IST" duration-ms="65" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUserData -->
+      </class> <!-- s19_CreateOwnAPI_CRUDOperations.CreateOwnAPI_CRUDOperations -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
