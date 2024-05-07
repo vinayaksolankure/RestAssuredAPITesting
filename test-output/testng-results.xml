@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-06T11:32:02 IST" name="Default suite" finished-at="2024-05-06T11:32:07 IST" duration-ms="5265">
+  <suite started-at="2024-05-07T12:17:10 IST" name="Default suite" finished-at="2024-05-07T12:17:16 IST" duration-ms="5922">
     <groups>
     </groups>
-    <test started-at="2024-05-06T11:32:02 IST" name="Default test" finished-at="2024-05-06T11:32:07 IST" duration-ms="5265">
-      <class name="s20_POJO_JSONObjectData_Serialization_Desialization.POJO_JSONObjectData_Serialization_Desialization">
-        <test-method signature="createJSONObjectFromEmployeeClassObject()[pri:0, instance:s20_POJO_JSONObjectData_Serialization_Desialization.POJO_JSONObjectData_Serialization_Desialization@694abbdc]" started-at="2024-05-06T11:32:02 IST" name="createJSONObjectFromEmployeeClassObject" finished-at="2024-05-06T11:32:07 IST" duration-ms="5192" status="PASS">
+    <test started-at="2024-05-07T12:17:10 IST" name="Default test" finished-at="2024-05-07T12:17:16 IST" duration-ms="5922">
+      <class name="s21_POJO_JSONArrayObject_Serialization_Desialization.POJO_JSONArrayObject_Serialization_Desialization">
+        <test-method signature="createEmployeesJSONArray()[pri:0, instance:s21_POJO_JSONArrayObject_Serialization_Desialization.POJO_JSONArrayObject_Serialization_Desialization@694abbdc]" started-at="2024-05-07T12:17:10 IST" name="createEmployeesJSONArray" finished-at="2024-05-07T12:17:16 IST" duration-ms="5816" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createJSONObjectFromEmployeeClassObject -->
-      </class> <!-- s20_POJO_JSONObjectData_Serialization_Desialization.POJO_JSONObjectData_Serialization_Desialization -->
+        </test-method> <!-- createEmployeesJSONArray -->
+      </class> <!-- s21_POJO_JSONArrayObject_Serialization_Desialization.POJO_JSONArrayObject_Serialization_Desialization -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

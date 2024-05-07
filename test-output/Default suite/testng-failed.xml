@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="s18_UploadFile.UploadFile">
+      <class name="s21_POJO_JSONArrayObject_Serialization_Desialization.POJO_JSONArrayObject_Serialization_Desialization">
         <methods>
-          <include name="uploadFile2"/>
+          <include name="createEmployeesJSONArray"/>
         </methods>
-      </class> <!-- s18_UploadFile.UploadFile -->
+      </class> <!-- s21_POJO_JSONArrayObject_Serialization_Desialization.POJO_JSONArrayObject_Serialization_Desialization -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
