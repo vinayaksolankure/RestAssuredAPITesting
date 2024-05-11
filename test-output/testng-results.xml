@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-09T14:14:54 IST" name="Default suite" finished-at="2024-05-09T14:15:01 IST" duration-ms="7192">
+  <suite started-at="2024-05-11T18:19:31 IST" name="Default suite" finished-at="2024-05-11T18:19:36 IST" duration-ms="4762">
     <groups>
     </groups>
-    <test started-at="2024-05-09T14:14:54 IST" name="Default test" finished-at="2024-05-09T14:15:01 IST" duration-ms="7192">
-      <class name="s22_POJO_NestedJSONObject.POJO_NestedJSONObject">
-        <test-method signature="createUser()[pri:0, instance:s22_POJO_NestedJSONObject.POJO_NestedJSONObject@694abbdc]" started-at="2024-05-09T14:14:54 IST" name="createUser" finished-at="2024-05-09T14:15:01 IST" duration-ms="7078" status="PASS">
+    <test started-at="2024-05-11T18:19:31 IST" name="Default test" finished-at="2024-05-11T18:19:36 IST" duration-ms="4762">
+      <class name="s23_POJO_ComplexNestedJSONObject.POJO_ComplexNestedJSONObject">
+        <test-method signature="createUser()[pri:0, instance:s23_POJO_ComplexNestedJSONObject.POJO_ComplexNestedJSONObject@694abbdc]" started-at="2024-05-11T18:19:31 IST" name="createUser" finished-at="2024-05-11T18:19:36 IST" duration-ms="4599" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createUser -->
-      </class> <!-- s22_POJO_NestedJSONObject.POJO_NestedJSONObject -->
+      </class> <!-- s23_POJO_ComplexNestedJSONObject.POJO_ComplexNestedJSONObject -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
