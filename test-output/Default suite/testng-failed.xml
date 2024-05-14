@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="s21_POJO_JSONArrayObject_Serialization_Desialization.POJO_JSONArrayObject_Serialization_Desialization">
+      <class name="s26_IgnoreUnknownProperties_Deserialization.IgnoreUnknownProperties_Deserialization">
         <methods>
-          <include name="createEmployeesJSONArray"/>
+          <include name="test1"/>
         </methods>
-      </class> <!-- s21_POJO_JSONArrayObject_Serialization_Desialization.POJO_JSONArrayObject_Serialization_Desialization -->
+      </class> <!-- s26_IgnoreUnknownProperties_Deserialization.IgnoreUnknownProperties_Deserialization -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
