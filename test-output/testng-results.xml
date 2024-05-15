@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-14T14:20:25 IST" name="Default suite" finished-at="2024-05-14T14:20:25 IST" duration-ms="632">
+  <suite started-at="2024-05-15T10:40:49 IST" name="Default suite" finished-at="2024-05-15T10:40:59 IST" duration-ms="10050">
     <groups>
     </groups>
-    <test started-at="2024-05-14T14:20:25 IST" name="Default test" finished-at="2024-05-14T14:20:25 IST" duration-ms="632">
-      <class name="s26_IgnoreUnknownProperties_Deserialization.IgnoreUnknownProperties_Deserialization">
-        <test-method signature="test1()[pri:0, instance:s26_IgnoreUnknownProperties_Deserialization.IgnoreUnknownProperties_Deserialization@359f7cdf]" started-at="2024-05-14T14:20:25 IST" name="test1" finished-at="2024-05-14T14:20:25 IST" duration-ms="530" status="PASS">
+    <test started-at="2024-05-15T10:40:49 IST" name="Default test" finished-at="2024-05-15T10:40:59 IST" duration-ms="10050">
+      <class name="s27_MockAPIEasily_ConvertJSONResponseToPOJOClassObject.MockAPIEasily_ConvertJSONResponseToPOJOClassObject">
+        <test-method signature="test1()[pri:0, instance:s27_MockAPIEasily_ConvertJSONResponseToPOJOClassObject.MockAPIEasily_ConvertJSONResponseToPOJOClassObject@7c729a55]" started-at="2024-05-15T10:40:49 IST" name="test1" finished-at="2024-05-15T10:40:57 IST" duration-ms="8085" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-      </class> <!-- s26_IgnoreUnknownProperties_Deserialization.IgnoreUnknownProperties_Deserialization -->
+        <test-method signature="test2()[pri:0, instance:s27_MockAPIEasily_ConvertJSONResponseToPOJOClassObject.MockAPIEasily_ConvertJSONResponseToPOJOClassObject@7c729a55]" started-at="2024-05-15T10:40:57 IST" name="test2" finished-at="2024-05-15T10:40:59 IST" duration-ms="1844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- s27_MockAPIEasily_ConvertJSONResponseToPOJOClassObject.MockAPIEasily_ConvertJSONResponseToPOJOClassObject -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

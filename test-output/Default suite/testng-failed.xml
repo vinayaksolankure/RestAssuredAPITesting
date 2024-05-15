@@ -3,11 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="s26_IgnoreUnknownProperties_Deserialization.IgnoreUnknownProperties_Deserialization">
+      <class name="s27_MockAPIEasily_ConvertJSONResponseToPOJOClassObject.MockAPIEasily_ConvertJSONResponseToPOJOClassObject">
         <methods>
+          <include name="test2"/>
           <include name="test1"/>
         </methods>
-      </class> <!-- s26_IgnoreUnknownProperties_Deserialization.IgnoreUnknownProperties_Deserialization -->
+      </class> <!-- s27_MockAPIEasily_ConvertJSONResponseToPOJOClassObject.MockAPIEasily_ConvertJSONResponseToPOJOClassObject -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
