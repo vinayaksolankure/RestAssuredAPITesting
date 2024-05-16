@@ -1,21 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-15T10:40:49 IST" name="Default suite" finished-at="2024-05-15T10:40:59 IST" duration-ms="10050">
+  <suite started-at="2024-05-16T11:20:07 IST" name="Default suite" finished-at="2024-05-16T11:20:12 IST" duration-ms="5164">
     <groups>
     </groups>
-    <test started-at="2024-05-15T10:40:49 IST" name="Default test" finished-at="2024-05-15T10:40:59 IST" duration-ms="10050">
-      <class name="s27_MockAPIEasily_ConvertJSONResponseToPOJOClassObject.MockAPIEasily_ConvertJSONResponseToPOJOClassObject">
-        <test-method signature="test1()[pri:0, instance:s27_MockAPIEasily_ConvertJSONResponseToPOJOClassObject.MockAPIEasily_ConvertJSONResponseToPOJOClassObject@7c729a55]" started-at="2024-05-15T10:40:49 IST" name="test1" finished-at="2024-05-15T10:40:57 IST" duration-ms="8085" status="PASS">
+    <test started-at="2024-05-16T11:20:07 IST" name="Default test" finished-at="2024-05-16T11:20:12 IST" duration-ms="5164">
+      <class name="s28_HowToAddHeaderInRequest.HowToAddHeaderInRequest">
+        <test-method signature="testMethod1()[pri:0, instance:s28_HowToAddHeaderInRequest.HowToAddHeaderInRequest@5af3afd9]" started-at="2024-05-16T11:20:07 IST" name="testMethod1" finished-at="2024-05-16T11:20:11 IST" duration-ms="4421" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test1 -->
-        <test-method signature="test2()[pri:0, instance:s27_MockAPIEasily_ConvertJSONResponseToPOJOClassObject.MockAPIEasily_ConvertJSONResponseToPOJOClassObject@7c729a55]" started-at="2024-05-15T10:40:57 IST" name="test2" finished-at="2024-05-15T10:40:59 IST" duration-ms="1844" status="PASS">
+        </test-method> <!-- testMethod1 -->
+        <test-method signature="testMethod2ByMap()[pri:1, instance:s28_HowToAddHeaderInRequest.HowToAddHeaderInRequest@5af3afd9]" started-at="2024-05-16T11:20:11 IST" name="testMethod2ByMap" finished-at="2024-05-16T11:20:11 IST" duration-ms="138" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test2 -->
-      </class> <!-- s27_MockAPIEasily_ConvertJSONResponseToPOJOClassObject.MockAPIEasily_ConvertJSONResponseToPOJOClassObject -->
+        </test-method> <!-- testMethod2ByMap -->
+        <test-method signature="testMethod3ByHeaderClass()[pri:2, instance:s28_HowToAddHeaderInRequest.HowToAddHeaderInRequest@5af3afd9]" started-at="2024-05-16T11:20:11 IST" name="testMethod3ByHeaderClass" finished-at="2024-05-16T11:20:11 IST" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod3ByHeaderClass -->
+        <test-method signature="testMethod4ByHeadersClass()[pri:3, instance:s28_HowToAddHeaderInRequest.HowToAddHeaderInRequest@5af3afd9]" started-at="2024-05-16T11:20:11 IST" name="testMethod4ByHeadersClass" finished-at="2024-05-16T11:20:11 IST" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod4ByHeadersClass -->
+        <test-method signature="testMethod5BDDStyle()[pri:4, instance:s28_HowToAddHeaderInRequest.HowToAddHeaderInRequest@5af3afd9]" started-at="2024-05-16T11:20:11 IST" name="testMethod5BDDStyle" finished-at="2024-05-16T11:20:12 IST" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod5BDDStyle -->
+      </class> <!-- s28_HowToAddHeaderInRequest.HowToAddHeaderInRequest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
