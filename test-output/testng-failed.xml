@@ -3,12 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="s27_MockAPIEasily_ConvertJSONResponseToPOJOClassObject.MockAPIEasily_ConvertJSONResponseToPOJOClassObject">
+      <class name="s29_ResponseSpecification_ResponseSpecBuilder.ResponseSpecification_ResponseSpecBuilder">
         <methods>
-          <include name="test2"/>
-          <include name="test1"/>
+          <include name="getBookingByFirstName"/>
         </methods>
-      </class> <!-- s27_MockAPIEasily_ConvertJSONResponseToPOJOClassObject.MockAPIEasily_ConvertJSONResponseToPOJOClassObject -->
+      </class> <!-- s29_ResponseSpecification_ResponseSpecBuilder.ResponseSpecification_ResponseSpecBuilder -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
