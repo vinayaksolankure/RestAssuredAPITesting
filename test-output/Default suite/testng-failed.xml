@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="s29_ResponseSpecification_ResponseSpecBuilder.ResponseSpecification_ResponseSpecBuilder">
+      <class name="s30_JSONSchemaValidation.JSONSchemaValidation">
         <methods>
-          <include name="getBookingByFirstName"/>
+          <include name="testMethod"/>
         </methods>
-      </class> <!-- s29_ResponseSpecification_ResponseSpecBuilder.ResponseSpecification_ResponseSpecBuilder -->
+      </class> <!-- s30_JSONSchemaValidation.JSONSchemaValidation -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

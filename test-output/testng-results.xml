@@ -1,25 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-17T19:25:17 IST" name="Default suite" finished-at="2024-05-17T19:25:29 IST" duration-ms="11259">
+  <suite started-at="2024-05-18T10:58:26 IST" name="Default suite" finished-at="2024-05-18T10:58:35 IST" duration-ms="9672">
     <groups>
     </groups>
-    <test started-at="2024-05-17T19:25:17 IST" name="Default test" finished-at="2024-05-17T19:25:29 IST" duration-ms="11259">
-      <class name="s29_ResponseSpecification_ResponseSpecBuilder.ResponseSpecification_ResponseSpecBuilder">
-        <test-method is-config="true" signature="createResponseSpec()[pri:0, instance:s29_ResponseSpecification_ResponseSpecBuilder.ResponseSpecification_ResponseSpecBuilder@1623b78d]" started-at="2024-05-17T19:25:18 IST" name="createResponseSpec" finished-at="2024-05-17T19:25:19 IST" duration-ms="1584" status="PASS">
+    <test started-at="2024-05-18T10:58:26 IST" name="Default test" finished-at="2024-05-18T10:58:35 IST" duration-ms="9672">
+      <class name="s30_JSONSchemaValidation.JSONSchemaValidation">
+        <test-method signature="testMethod()[pri:0, instance:s30_JSONSchemaValidation.JSONSchemaValidation@6ae5aa72]" started-at="2024-05-18T10:58:26 IST" name="testMethod" finished-at="2024-05-18T10:58:35 IST" duration-ms="9516" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createResponseSpec -->
-        <test-method signature="getAllBookingIDs()[pri:0, instance:s29_ResponseSpecification_ResponseSpecBuilder.ResponseSpecification_ResponseSpecBuilder@1623b78d]" started-at="2024-05-17T19:25:19 IST" name="getAllBookingIDs" finished-at="2024-05-17T19:25:27 IST" duration-ms="7976" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- getAllBookingIDs -->
-        <test-method signature="getBookingByFirstName()[pri:0, instance:s29_ResponseSpecification_ResponseSpecBuilder.ResponseSpecification_ResponseSpecBuilder@1623b78d]" started-at="2024-05-17T19:25:27 IST" name="getBookingByFirstName" finished-at="2024-05-17T19:25:29 IST" duration-ms="1591" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- getBookingByFirstName -->
-      </class> <!-- s29_ResponseSpecification_ResponseSpecBuilder.ResponseSpecification_ResponseSpecBuilder -->
+        </test-method> <!-- testMethod -->
+      </class> <!-- s30_JSONSchemaValidation.JSONSchemaValidation -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
