@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="s30_JSONSchemaValidation.JSONSchemaValidation">
+      <class name="s31_JSONSchemaValidation_WithoutRestAssured.JSONSchemaValidation_WithoutRestAssured">
         <methods>
-          <include name="testMethod"/>
+          <include name="name"/>
         </methods>
-      </class> <!-- s30_JSONSchemaValidation.JSONSchemaValidation -->
+      </class> <!-- s31_JSONSchemaValidation_WithoutRestAssured.JSONSchemaValidation_WithoutRestAssured -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

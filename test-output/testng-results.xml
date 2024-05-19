@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-18T10:58:26 IST" name="Default suite" finished-at="2024-05-18T10:58:35 IST" duration-ms="9672">
+  <suite started-at="2024-05-19T12:40:41 IST" name="Default suite" finished-at="2024-05-19T12:40:42 IST" duration-ms="1248">
     <groups>
     </groups>
-    <test started-at="2024-05-18T10:58:26 IST" name="Default test" finished-at="2024-05-18T10:58:35 IST" duration-ms="9672">
-      <class name="s30_JSONSchemaValidation.JSONSchemaValidation">
-        <test-method signature="testMethod()[pri:0, instance:s30_JSONSchemaValidation.JSONSchemaValidation@6ae5aa72]" started-at="2024-05-18T10:58:26 IST" name="testMethod" finished-at="2024-05-18T10:58:35 IST" duration-ms="9516" status="PASS">
+    <test started-at="2024-05-19T12:40:41 IST" name="Default test" finished-at="2024-05-19T12:40:42 IST" duration-ms="1248">
+      <class name="s31_JSONSchemaValidation_WithoutRestAssured.JSONSchemaValidation_WithoutRestAssured">
+        <test-method signature="name()[pri:0, instance:s31_JSONSchemaValidation_WithoutRestAssured.JSONSchemaValidation_WithoutRestAssured@6ae5aa72]" started-at="2024-05-19T12:40:41 IST" name="name" finished-at="2024-05-19T12:40:42 IST" duration-ms="1159" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testMethod -->
-      </class> <!-- s30_JSONSchemaValidation.JSONSchemaValidation -->
+        </test-method> <!-- name -->
+      </class> <!-- s31_JSONSchemaValidation_WithoutRestAssured.JSONSchemaValidation_WithoutRestAssured -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
